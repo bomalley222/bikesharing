@@ -16,4 +16,8 @@ Link to Tablueau Dashboard can be found [here](https://public.tableau.com/app/pr
 ![trips_weekday](https://github.com/bomalley222/bikesharing/blob/main/Resources/trips_weekday.png)
 
 ## Summary
-Male subscribers are an overwhelming majority of the total rider percentage. During the week, the peak volume of riders is during commuting hours.
+The area of NYC with the most volume of riders is in Manhattan, specifically lower Manhattan. Male subscribers are an overwhelming majority of the total rider percentage. During the week, the peak volume of riders is during commuting hours. 
+
+## Suggested visualizations
+* Trips by birth year (weekdays per hour)
+* Trips by birth year and gender (weekday)
