@@ -16,4 +16,4 @@ Link to Tablueau Dashboard can be found [here](https://public.tableau.com/app/pr
 ![trips_weekday](https://github.com/bomalley222/bikesharing/blob/main/Resources/trips_weekday.png)
 
 ## Summary
-Male riders seem to be an overwhelming majority of the total rider percentage. During the week, the peak volume of riders is during commuting hours.
+Male subscribers are an overwhelming majority of the total rider percentage. During the week, the peak volume of riders is during commuting hours.
