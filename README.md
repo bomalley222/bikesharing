@@ -7,3 +7,21 @@ Link to Tablueau Dashboard can be found [here](https://public.tableau.com/app/pr
 
 ## Results
 ![riderInfo](https://github.com/bomalley222/bikesharing/blob/main/Resources/rider_info.png)
+![start](https://github.com/bomalley222/bikesharing/blob/main/Resources/start.png)
+![end](https://github.com/bomalley222/bikesharing/blob/main/Resources/end.png)
+![user](https://github.com/bomalley222/bikesharing/blob/main/Resources/user_checkouts.png)
+![gender_checkout](https://github.com/bomalley222/bikesharing/blob/main/Resources/gender_checkouts.png)
+![trips](https://github.com/bomalley222/bikesharing/blob/main/Resources/trips.png)
+![trips_gender](https://github.com/bomalley222/bikesharing/blob/main/Resources/trips_by_gender.png)
+![trips_weekday](https://github.com/bomalley222/bikesharing/blob/main/Resources/trips_weekday.png)
+
+
+
+
+
+
+
+
+
+
+
